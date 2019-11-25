@@ -1,0 +1,7 @@
+.direnv/
+.envrc
+.nixpkgs-version.json
+.mypy_cache/
+*/.ipynb_checkpoints/
+**/*.ipynb
+**/*.gmt
